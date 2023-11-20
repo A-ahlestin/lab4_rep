@@ -4,3 +4,5 @@ Windows 11
 Программист Unreal Engine/C++
 c++, python, java, c#
 Разработка игр
+
+Средний балл: 4.4
